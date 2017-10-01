@@ -1,0 +1,14 @@
+{
+  "name": "promise",
+  "version": "1.0.0",
+  "description": "TP test Promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "KurayamiNoDaiTenshi",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^4.0.2"
+  }
+}
